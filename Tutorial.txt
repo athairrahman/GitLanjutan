@@ -1,1 +1,8 @@
-ignore berfungsi mengatur configurasi agar tidak terupload ke repository
+1. ignore berfungsi mengatur configurasi agar tidak terupload ke repository
+2. git push -u hanya digunakan bagi yang belum melakukan branch ke repository server
+3. git remote set-url origin https://tokeningithub.@github.com/namausernamegithub/nameofrepo.git digunakan ketika git push -u origin master gagal
+4. git pull mengunduh berkas dan folder dari remote repository
+5. git checkout -b nameOfBranchNew membuat brach baru 
+6. git checkout oldBranch berpindah ke branch lama
+7. git diff melihat perubahan yang terjadi pada proyek git 
+8. git log melihat informasi mengenai commit history
