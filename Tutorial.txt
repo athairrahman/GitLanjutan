@@ -1,0 +1,1 @@
+ignore berfungsi mengatur configurasi agar tidak terupload ke repository
